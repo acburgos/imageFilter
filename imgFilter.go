@@ -6,8 +6,8 @@ import(
 	"log"
 	"image"
 	"image/jpeg"
-	//_"image/png"
-	//_"image/gif"
+	_"image/png"
+	_"image/gif"
 	"image/color"
 	)
 
