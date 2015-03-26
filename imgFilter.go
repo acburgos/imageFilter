@@ -52,8 +52,8 @@ de nueva imagen de saldia.
 */
 var(
 	
-	img1=flag.String("img1","../../joker.jpg","nombre de la foto")
-	img2=flag.String("img2","../../imagen3.jpg","nombre del archivo de salida")
+	img1=flag.String("img1","default","nombre de la foto")
+	img2=flag.String("img2","default","nombre del archivo de salida")
 )
 
 
